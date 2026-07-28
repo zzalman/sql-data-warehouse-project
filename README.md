@@ -11,6 +11,12 @@ This project demonstrates a complete end-to-end data warehousing and analytics s
 This project follows the **Medallion Architecture** consisting of **Bronze**, **Silver**, and **Gold** layers.
 <img width="827" height="464" alt="Untitled Diagram drawio (2)" src="https://github.com/user-attachments/assets/32768abf-8dee-464e-b789-875721588119" />
 
+<img width="1048" height="561" alt="Data mart" src="https://github.com/user-attachments/assets/9ffb64f5-831f-4b4e-a0bf-b93231c23b08" />
+<img width="608" height="402" alt="Data Flow Diagram" src="https://github.com/user-attachments/assets/4de3e669-7829-4e79-9f78-a265b7366389" />
+<img width="1743" height="911" alt="Integration model 01" src="https://github.com/user-attachments/assets/995b0a0d-773f-4b53-ac57-c373bf96ff34" />
+<img width="1626" height="854" alt="Integration model" src="https://github.com/user-attachments/assets/200d5d78-3edb-4bd4-92f8-c64b80259af1" />
+
+
 
 ### 🥉 Bronze Layer
 
